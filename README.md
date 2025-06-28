@@ -15,11 +15,6 @@ This is a minimal, beautiful, and user-friendly Tic-Tac-Toe game built with Pyth
 
 ---
 
-## 🖥️ Screenshots
-> _Add your own screenshots here after running the app!_
-
----
-
 ## 📦 Requirements
 - Python 3.8 or newer (tested on 3.13.5)
 - `customtkinter` (installed via pip)
